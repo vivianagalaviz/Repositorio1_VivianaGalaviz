@@ -1,5 +1,5 @@
 # Repositorio1_VivianaGalaviz 
 Primer Repositorio Uso de CM
 
-Este es un proyecto prueba para la materia de ingeniería de sofware
-Version 1.0
+Este es un proyecto prueba para la materia de Ingeniería de Software
+Version 2.0
